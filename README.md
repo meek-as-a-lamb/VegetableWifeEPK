@@ -89,44 +89,44 @@ The act of cutting, without knowing what it is, combines with the impossible des
 
    ෴Solo Show෴
     <br>
-    2022 <a href="http://www.boan1942.com/calendar/doluck08_exhibition" target="_blank"><em>쌍차쌍조 双遮双照 : 무지개의 꿈</em></a>, 보안아스트페이스3 (보안1942), 서울
+    2022 <a href="http://www.boan1942.com/calendar/doluck08_exhibition" target="_blank"><em>쌍차쌍조 双遮双照 : 무지개의 꿈 (SSang-Cha-SSang-Jo : Dream of Rainbow)</em></a>, 보안아스트페이스3 (보안1942), 서울
     <br>
     <br>
     ෴Selected Group Exhibitions෴
     <br>
-    2022 <a href="https://www.proyectoace.org/en/artistas/hee-ju-im-2/" target="_blank"> <em>'acePIRAR</em></a>, 프로젝토에이스, 부에노스 아이레스
+    2022 <a href="https://www.proyectoace.org/en/artistas/hee-ju-im-2/" target="_blank"> <em>에이스피랄 ('acePIRAR) </em></a>, 프로젝토에이스 (ProjectoAce), 부에노스 아이레스 (Buenos Aires)
     <br>
-    2022 <a href="http://www.audio-trading-manual.kr/participant.html" target="_blank"><em>ATM × WORM: Borderless Point</em></a>, 문화비축기지 (아트인큐베이터), 서울
+    2022 <a href="http://www.audio-trading-manual.kr/participant.html" target="_blank"><em>ATM × WORM: Borderless Point</em></a>, 문화비축기지 (아트인큐베이터) (Oil Tank Culture Park (Arts Incubator)), 서울 (Seoul)
     <br>
-    2021 <a href="https://factory2.kr/SoundAbject" target="_blank"><em>Sound Abject</em></a>, factory 2, 서울
+    2021 <a href="https://factory2.kr/SoundAbject" target="_blank"><em>Sound Abject</em></a>, factory 2, 서울 (Seoul) 
     <br>
-    2020 <em>첫번째 파도</em>, 청강개발 (섬도), 거제
+    2020 <em>첫번째 파도 (The First Wave)</em>, 청강개발 (섬도) (Cheong-Gang Industry (Soem-do)), 거제 (Geo-je)
     <br>
-    2020 <em>배양장 프로젝트 : 배양</em>, 배양장, 통영
+    2020 <em>배양장 프로젝트 : 배양 (Baeyangjang Project : Baeyang)</em>, 배양장 (Baeyangjang), 통영 (Tong-Young)
     <br>
-    2018 <em>The Mall</em>, CAS, 런던
+    2018 <em>The Mall</em>, CAS, 런던 (London)
     <br>
     <br>
     ෴Performances෴
     <br>
-    2024 <em>untitled</em>, 무대륙, 서울 (upcoming on 2024/06/21)
+    2024 <em>untitled</em>, Mudaeruk, 서울 (Seoul) (upcoming on 2024/06/21)
     <br>
-    2024 <em>수요초대석</em>, 채널1969, 서울 (upcoming on 2024/06/19)
+    2024 <em>수요초대석</em>, Channel 1969, 서울 (Seoul) (upcoming on 2024/06/19)
     <br>
     2024 <em>Howling Live</em>, 평화문화진지 씨어터, 서울 (upcoming on 2024/05/25)
     <br>
     2024 <a href="https://www.youtube.com/playlist?list=PLdo75Onzg6VZLcduNEoPSoFtw588T16LT" target="_blank"> <em>KIRARA's EP [cts8] 쇼케이스 오프닝 게스트</em></a>, 채널l1969, 서울
     <br>
-    2022 <a href="https://ropac.net/ko/exhibitions/621-oliver-beer-resonance-paintings-two-notes/" target="_blank"> <em>Composition for Mouths, 올리버 비어 개인전 Resonance Paintings - Two Notes</em></a>, Thaddaeous Ropac, Seoul
+    2022 <a href="https://ropac.net/ko/exhibitions/621-oliver-beer-resonance-paintings-two-notes/" target="_blank"> <em>Composition for Mouths, Oliver Beer's Solo Show Resonance Paintings - Two Notes</em></a>, Thaddaeous Ropac, Seoul
     <br>
     <br>
     ෴Projects and Workshops෴
     <br>
-    2024 Puredata Workshop <em>퓨어데이터 모임</em>, 우루루, 서울 
+    2024 Puredata Workshop <em>Puredata Moim</em>, ururu, 서울 (Seoul) 
     <br>
-    2023 온라인 프로젝트, 사운드 게임 <a href="https://sand-receive.dianaband.in/" target="_blank"> <em>Sand and Receive</em></a>, 다이애나밴드와 협업
+    2023 Online Project, Sound Game <a href="https://sand-receive.dianaband.in/" target="_blank"> <em>Sand and Receive</em></a>, worked with dianaband
     <br>
-    2023 온라인 프로젝트, 사운드 게임 <a href="https://meek-as-a-lamb.itch.io/ivi-the-glitch" target="_blank"> <em>ivi the Glitch</em></a>
+    2023 Online Project, Sound Game <a href="https://meek-as-a-lamb.itch.io/ivi-the-glitch" target="_blank"> <em>ivi the Glitch</em></a>
     <br>
     2023 <em>PureData Moim</em> hosted by dianaband
     <br>
