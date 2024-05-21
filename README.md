@@ -14,7 +14,14 @@ I yearn for noise and noise-making beings that escape from ethics and morality. 
 You Can Listen Here ☟<br>
 Bandcamp https://vegetablewife.bandcamp.com/album/inscrutable-sap<br>
 or<br>
-via other Platforms https://linksalad.net/SuhnIbOc8l
+via other Platforms <br>
+<a href="https://music.apple.com/us/album/inscrutable-sap-ep/1746225636" target="_blank">Apple Music</a>
+<br>
+<a href="https://open.spotify.com/album/1DI39vGIf9HzeGOxzW1DKh" target="_blank">Spotify</a>
+<br>
+<a href="https://music.youtube.com/playlist?list=OLAK5uy_l2PkIYvyFQBvqxTDaVsFwN1Bue6PIA4EI" target="_blank">Youtube Music</a>
+
+
 <br>
 <br>
 
