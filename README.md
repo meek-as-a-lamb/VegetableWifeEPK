@@ -11,8 +11,10 @@ I yearn for noise and noise-making beings that escape from ethics and morality. 
 <img src="image/vegetablewife_cover_3000x3000.jpg" width="500" height="500">
 
 <br>
-You Can Listen Here ☟ <br>
-Bandcamp https://vegetablewife.bandcamp.com/album/inscrutable-sap
+You Can Listen Here ☟<br>
+Bandcamp https://vegetablewife.bandcamp.com/album/inscrutable-sap<br>
+or<br>
+via Platforms https://linksalad.net/SuhnIbOc8l
 <br>
 <br>
 
